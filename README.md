@@ -8,7 +8,6 @@ environment.<br />
 - Okta
 <h2>Operating Systems Used </h2>
 - Windows 11
-<h2>Enrolled all three users below from Inactive to Active status.</h2>
+<h2>Enrolled users below from Inactive to Active status.</h2>
 <p>
-<img width="990" height="221" alt="image"
-src="https://github.com/user-attachments/assets/8403082f-5c81-4e15-8106-7a9f28328e20" />
+<img width="958" height="416" alt="Okta  Enrollment Provisioning" src="https://github.com/user-attachments/assets/d5b1f9ba-11b8-47b9-b34a-8dc926e1f07e" />
